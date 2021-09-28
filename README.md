@@ -1,2 +1,2 @@
 # Tugas-Data-Sains
-Latihan
+Latihan Data Sains
